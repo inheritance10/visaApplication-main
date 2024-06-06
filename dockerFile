@@ -1,0 +1,18 @@
+# Resmi Python görüntüsünü al
+FROM python:3.12.3
+
+# Gerekli paketleri yükle
+RUN apt-get update && apt-get install -y default-mysql-client
+
+# Çalışma dizinini /visa-application olarak ayarla
+WORKDIR /visa-application
+
+# Gereksinimleri kopyala ve yükle
+COPY requirements.txt requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Uygulama kodunu kopyala
+COPY . .
+
+# Flask uygulamasını çalıştır
+CMD ["python", "main.py"]

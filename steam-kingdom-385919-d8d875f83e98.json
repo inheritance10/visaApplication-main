@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "steam-kingdom-385919",
+  "private_key_id": "d8d875f83e981e98db45270ad9532f43d6f06622",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDE9Qa/FPMhlPOm\nEcSXxppc5e8goBcW1a2Txw9FnCls+iv5Iqnt5KBYzJkf9WtOjpKsTu+qDboJsHrm\nZ4Rclgcb7AfM/8Uk1+rhAihHX8YvwaVFYFVQJrNqiIgcCOoc5OJuwCqbtJoa241o\ndTFCU6lClsQWCmMDZbcagHwn1fGnSuuBR8bTTxHCzruOzGevh2v9dC2GoLb8IHIS\nVZvVCDEV05wl9eiq4CamM9VBANcURXlEe9LGvm5Fs21fNL77Vp1jFk0MTqz3ume/\n3PLTUikAWG4mLx6WtOGsSe5Kv972TlvLAygEs1vp4Ac4f4zpQsdIBKtnEs5DoM2L\nKlC3MwUJAgMBAAECggEADguRHxg93FO0ak/TDqW9hUlqW4+/BcRYG/UyjBq+Q4S1\nlQ8ZQhsvKhXxB3vnWpNFN19rrNtMvHsm0H5qTHXwbNfQmJhWtTFmkQQn3isgxXAQ\nOpnLi6su2TaCSkmCdGwID7DJeRAQe0DT3TKaQCoaJGL++blk5S2gOJYYBHk3wd+w\nUJCfihePkIVSvneYDYLHrIyf05TL0XefaGAirN/kpAcv4h4S4ONC4iTyxtztY4m2\nXcIbYC/hfD1i54BBWaKADOmNc1gQ1auceekKo914eK++T/jjQAEQGthvhbw+gC27\nt/mhY06sN+qKn1Irk14rggfCeopIiBBvuBVFSrlbAQKBgQDnOcEJl0d5FK7DKI5k\nWhWHbq9UCr6wkOePdReogdCVDHQsMxHAkQ7bGHaHOWyTm1IHgtPm+j/Ja5EXqLgq\nIUhpvElWpwBlllx+PXiRguo+/HHTaIPI84N1v2/3xVdPaX2hu2x6fUtLd5LwsyNe\nqAdB2nsptrwuWJC42315R/Z8QQKBgQDaD1QenbgGOsVTzmHPBBw9KzIN3eZGmlxq\nNvGWslxrNREcc7qbyrZGdu8g9WHM2tvzRzQdhSk8ve5X9wFQaf11D105nNlD+KLl\nSlOyorPDAWWM0NSKv+gKuoJawOiyzaGKxuhpm+PGy0Wi3fIcXjkzMl0G+NlDhJOx\nuwq8bgX2yQKBgBBV3jNlQqFlOquC8/xW+OpmgXB4idxDgHh8Fz3KXggJpzNwMDLg\njKIh6k3HWspa0MLDFWFeEJ+UP93iB5DCZTFDIhNDHR4QL1yjzx7Ilu/4ObprydOq\nkIEDE0/32yE7HKsOaK2GqIkeW30xyq/nQwv9+XGK/WRw0Vid+RFWai2BAoGAQMde\n+P1npsocxsm/uq0A6pcDdqUd/IlsvMz3tgnkdKC+JZKntBJjVcmNPmBHHoFB6CKV\n89MULgxKWu1xAX+LIRRgYHYdARlC4xTSinXVKzAmB9Ad494gw9cmVGmMd1mpDL4M\nWxtJbkwCsuB2RUEkgvYKNsEEYg9nhNwI03Nn6CkCgYEAsKC/70KfynL1YVGOSoCs\nUNDR/qWGB9dVjoz+kjnDl39arnqkVfIIORmRbADSRIyYE9O4coSJLC/RZUH4e7T4\nPBFTbqmSqEwXjiiE+kqI6140t/cYSJd8qDu5gLPDyNRPhTRqRfCOEpVXRTA0HjTt\nSpAuIY5qqdoXklUPjmtVLiM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "captcha-solver@steam-kingdom-385919.iam.gserviceaccount.com",
+  "client_id": "101217329478188014894",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/captcha-solver%40steam-kingdom-385919.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
